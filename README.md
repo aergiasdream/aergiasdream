@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aergiasdream
+- 👋 Hi, I’m @dzpwl
 - 👀 I’m interested in FOSS, sudoku, text adventures.
 - 🌱 I’m currently learning express.js
 - 💞️ I’m looking to collaborate on anything! Any opportunity to be creative can easily get me invested (within the limit of my abilities, of course).
